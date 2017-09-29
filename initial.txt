@@ -1,0 +1,10 @@
+local -- > staging(cache) --> git repo(final) --> remote GitHub
+
+CONFIG:
+-------
+git config color.ui true
+	-- to configure colors in git console
+git config --global user.name "Name"
+git config --gloabl user.email "email@email"
+
+
